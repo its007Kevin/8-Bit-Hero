@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Boss
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Boss\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Boss()
+comment3.params=
+comment3.target=void\ checkGround()
+comment3.text=\r\n\ Checks\ if\ boss\ is\ on\ the\ ground\r\n
+comment4.params=
+comment4.target=void\ bulletHit()
+comment4.text=\r\n\ Health\ and\ bullet\ interactions\r\n
+comment5.params=
+comment5.target=void\ summonAnimation()
+comment5.text=\r\n\ Animation\ for\ when\ boss\ is\ summoned\r\n
+comment6.params=
+comment6.target=void\ summonExplosion()
+comment6.text=\r\n\ Explosion\ when\ the\ boss\ lands\r\n
+comment7.params=
+comment7.target=void\ punch()
+comment8.params=
+comment8.target=void\ attack()
+comment9.params=
+comment9.target=void\ walkingAnimation()
+numComments=10

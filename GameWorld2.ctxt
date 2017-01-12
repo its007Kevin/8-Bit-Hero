@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameWorld2
+comment1.params=
+comment1.target=GameWorld2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=position
+comment3.target=void\ paint(int)
+numComments=4
