@@ -1,6 +1,3 @@
-PROJECT TITLE: 8 BIT HERO 
-PURPOSE OF PROJECT: To make a simple 2-D side scroller game
-VERSION or DATE: 1.0
-HOW TO START THIS PROJECT:
-AUTHORS: Kevin (Sike) Zeng
-USER INSTRUCTIONS: Click on the executable jar file titled "8 Bit Hero" to run the finished game
+# 8 Bit Hero
+
+**8 Bit Hero** is a retro style 2D side scrolling shooter game developed in the [Greenfoot] (http://www.greenfoot.org/door) IDE which uses Java and basic object oriented programming.
