@@ -12,4 +12,4 @@ Play as a character that looks awfully close to 8 bit ironman as he tries to sav
 ![](https://github.com/its007Kevin/8-Bit-Hero/blob/master/Capture3.PNG)
 ![](https://github.com/its007Kevin/8-Bit-Hero/blob/master/Capture4.PNG)
 
-## [**PLAY NOW**](https://github.com/its007Kevin/8-Bit-Hero/blob/master/8%20Bit%20Hero.jar)
+## [**DOWNLOAD NOW**](https://github.com/its007Kevin/8-Bit-Hero/blob/master/8%20Bit%20Hero.jar)
